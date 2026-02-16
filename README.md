@@ -4,19 +4,19 @@ This project uses the Titanic dataset to predict whether a passenger survived or
 
 Project Steps Followed
 
-_Data loading
-_Data cleaning & preprocessing
-_Exploratory visualizations
-_Feature engineering
-_Model training (Logistic Regression)
-_Model accuracy evaluation
+_Data loading /
+ Data cleaning & preprocessing /
+ Exploratory visualizations / 
+ Feature engineering / 
+ Model training (Logistic Regression) / 
+ Model accuracy evaluation /
 _Final prediction and Kaggle submission creation
 
 - Files Included
 
-_titanic.ipynb — Full notebook with code
-_data/ — Folder containing train & test dataset
-_output/ — Folder containing final model prediction CSV
+_titanic.ipynb — Full notebook with code /
+ data/ — Folder containing train & test dataset /
+ output/ — Folder containing final model prediction CSV
 
 - Skills Learned
 
@@ -26,4 +26,5 @@ _Data visualization
 _Building and evaluating Machine Learning models
 
 Developed by Tamim Sheikh
+
 
