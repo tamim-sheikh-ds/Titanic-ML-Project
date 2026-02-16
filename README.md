@@ -1,28 +1,29 @@
-🚢 Titanic Survival Prediction – Machine Learning Project
+Titanic Survival Prediction – Machine Learning Project
 
 This project uses the Titanic dataset to predict whether a passenger survived or not.
 
-🔹 Project Steps Followed
+Project Steps Followed
 
-✔ Data loading
-✔ Data cleaning & preprocessing
-✔ Exploratory visualizations
-✔ Feature engineering
-✔ Model training (Logistic Regression)
-✔ Model accuracy evaluation
-✔ Final prediction and Kaggle submission creation
+_Data loading
+_Data cleaning & preprocessing
+_Exploratory visualizations
+_Feature engineering
+_Model training (Logistic Regression)
+_Model accuracy evaluation
+_Final prediction and Kaggle submission creation
 
-🔹 Files Included
+- Files Included
 
-📌 titanic.ipynb — Full notebook with code
-📌 data/ — Folder containing train & test dataset
-📌 output/ — Folder containing final model prediction CSV
+_titanic.ipynb — Full notebook with code
+_data/ — Folder containing train & test dataset
+_output/ — Folder containing final model prediction CSV
 
-🔹 Skills Learned
+- Skills Learned
 
-✔ Python programming
-✔ Data manipulation using Pandas
-✔ Data visualization
-✔ Building and evaluating Machine Learning models
+_Python programming
+_Data manipulation using Pandas
+_Data visualization
+_Building and evaluating Machine Learning models
 
 Developed by Tamim Sheikh
+
